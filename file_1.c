@@ -20,3 +20,5 @@ int func_add(int a, int b)
 	// one more change 
 	return a+b;
 }
+
+Adding same function from main branch
